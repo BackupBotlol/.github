@@ -4,8 +4,8 @@ Wer're the people behind BackupBot!
 We made it so that the people can get thier discord servers backed up incase they needed anything!
 
 - [our website](https://backupbotlol.github.io/website/)
- - [our ToS](https://backupbotlol.github.io/website/terms)
- - [our Privacy Policy](https://backupbotlol.github.io/website/privacy)
+  - [our ToS](https://backupbotlol.github.io/website/terms)
+  - [our Privacy Policy](https://backupbotlol.github.io/website/privacy)
 - [our Support server](https://discord.gg/Xnh5ckQVyV)
 - [our Email](mailto:andres-backupbot@proton.me)
 
