@@ -1,6 +1,6 @@
 Hi there
 
-Wer're the people behind BackupBot!
+We're the people behind BackupBot!
 We made it so that the people can get thier discord servers backed up incase they needed anything!
 
 - [our website](https://backupbot.org/)
